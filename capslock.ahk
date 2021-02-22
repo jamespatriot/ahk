@@ -1,4 +1,13 @@
 
+;  ***  space
+CapsLock::Send {Esc}
+
+^CapsLock::CapsLock
+
+
+;  *** CapsLock + XX
+#if GetKeyState("CapsLock", "P")
+
 
 
 ;  *** CapsLock + XX
