@@ -1,5 +1,6 @@
 
 CapsLock::Send {}
+^+F12::Suspend
 ^CapsLock::CapsLock
 
 ;  *** CapsLock + XX
